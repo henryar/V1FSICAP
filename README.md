@@ -18,5 +18,5 @@ Ubuntu 24 (Single node All in One Cluster):
     Run the MetalLB installer: Setup_LoadBallancer\Install_MetalLB.sh
     Once completed run the following commands to make sure all pods are running: kubectl get pods -A
     Update the values.yaml file with your autoscaling needs
-    Run the V1FS installer: Install_V1FS_ICAP.sh
+    Update the API in Install_V1FS_ICAP.sh then run the installer
     Once completed run the following commands to make sure all pods are running: kubectl get pods -A
