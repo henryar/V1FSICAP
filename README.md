@@ -1,4 +1,4 @@
-# V1FSICAP
+# V1FS ICAP
 Trend VisionOne File Security on Ubuntu
 Vision One Containerized Scanner for ICAP Storage
 
